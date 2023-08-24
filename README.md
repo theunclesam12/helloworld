@@ -1,5 +1,5 @@
 # helloworld
-lmao lmao lmao
+lmao lmao lmao\n
 Repository for Git workshop
 
 - EDIT:
